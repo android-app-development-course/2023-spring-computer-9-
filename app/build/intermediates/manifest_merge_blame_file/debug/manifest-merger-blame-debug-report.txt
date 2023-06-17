@@ -1,0 +1,132 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.cashbook"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->C:\Users\mkhhh\AndroidStudioProjects\CashBook\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Users\mkhhh\AndroidStudioProjects\CashBook\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\mkhhh\AndroidStudioProjects\CashBook\app\src\main\AndroidManifest.xml:5:5-41:19
+12        android:allowBackup="true"
+12-->C:\Users\mkhhh\AndroidStudioProjects\CashBook\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.7.0] C:\Users\mkhhh\.gradle\wrapper\dists\gradle-7.5-bin\f1w0cc9nuo0eivz97x2xlu9sv\gradle-7.5\caches\transforms-3\fb7b7b9be34ae56d3d2fed5eaf37cee0\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+14        android:dataExtractionRules="@xml/data_extraction_rules"
+14-->C:\Users\mkhhh\AndroidStudioProjects\CashBook\app\src\main\AndroidManifest.xml:7:9-65
+15        android:debuggable="true"
+16        android:extractNativeLibs="false"
+17        android:fullBackupContent="@xml/backup_rules"
+17-->C:\Users\mkhhh\AndroidStudioProjects\CashBook\app\src\main\AndroidManifest.xml:8:9-54
+18        android:icon="@mipmap/ic_launcher"
+18-->C:\Users\mkhhh\AndroidStudioProjects\CashBook\app\src\main\AndroidManifest.xml:9:9-43
+19        android:label="@string/app_name"
+19-->C:\Users\mkhhh\AndroidStudioProjects\CashBook\app\src\main\AndroidManifest.xml:10:9-41
+20        android:supportsRtl="true"
+20-->C:\Users\mkhhh\AndroidStudioProjects\CashBook\app\src\main\AndroidManifest.xml:11:9-35
+21        android:theme="@style/Theme.CashBook" >
+21-->C:\Users\mkhhh\AndroidStudioProjects\CashBook\app\src\main\AndroidManifest.xml:12:9-46
+22        <activity
+22-->C:\Users\mkhhh\AndroidStudioProjects\CashBook\app\src\main\AndroidManifest.xml:14:9-16:38
+23            android:name="com.example.cashbook.ui.users.about_us"
+23-->C:\Users\mkhhh\AndroidStudioProjects\CashBook\app\src\main\AndroidManifest.xml:15:13-66
+24            android:exported="true" />
+24-->C:\Users\mkhhh\AndroidStudioProjects\CashBook\app\src\main\AndroidManifest.xml:16:13-36
+25        <activity
+25-->C:\Users\mkhhh\AndroidStudioProjects\CashBook\app\src\main\AndroidManifest.xml:17:9-19:38
+26            android:name="com.example.cashbook.ui.users.change_password"
+26-->C:\Users\mkhhh\AndroidStudioProjects\CashBook\app\src\main\AndroidManifest.xml:18:13-73
+27            android:exported="true" />
+27-->C:\Users\mkhhh\AndroidStudioProjects\CashBook\app\src\main\AndroidManifest.xml:19:13-36
+28        <activity
+28-->C:\Users\mkhhh\AndroidStudioProjects\CashBook\app\src\main\AndroidManifest.xml:20:9-22:38
+29            android:name="com.example.cashbook.ui.users.settings"
+29-->C:\Users\mkhhh\AndroidStudioProjects\CashBook\app\src\main\AndroidManifest.xml:21:13-66
+30            android:exported="true" />
+30-->C:\Users\mkhhh\AndroidStudioProjects\CashBook\app\src\main\AndroidManifest.xml:22:13-36
+31        <activity
+31-->C:\Users\mkhhh\AndroidStudioProjects\CashBook\app\src\main\AndroidManifest.xml:23:9-25:38
+32            android:name="com.example.cashbook.ui.detailed_accounts.add_accounts"
+32-->C:\Users\mkhhh\AndroidStudioProjects\CashBook\app\src\main\AndroidManifest.xml:24:13-82
+33            android:exported="true" />
+33-->C:\Users\mkhhh\AndroidStudioProjects\CashBook\app\src\main\AndroidManifest.xml:25:13-36
+34        <activity
+34-->C:\Users\mkhhh\AndroidStudioProjects\CashBook\app\src\main\AndroidManifest.xml:26:9-28:38
+35            android:name="com.example.cashbook.ui.users.mylogin"
+35-->C:\Users\mkhhh\AndroidStudioProjects\CashBook\app\src\main\AndroidManifest.xml:27:13-65
+36            android:exported="true" />
+36-->C:\Users\mkhhh\AndroidStudioProjects\CashBook\app\src\main\AndroidManifest.xml:28:13-36
+37        <activity
+37-->C:\Users\mkhhh\AndroidStudioProjects\CashBook\app\src\main\AndroidManifest.xml:29:9-31:38
+38            android:name="com.example.cashbook.ui.users.myregister"
+38-->C:\Users\mkhhh\AndroidStudioProjects\CashBook\app\src\main\AndroidManifest.xml:30:13-68
+39            android:exported="true" />
+39-->C:\Users\mkhhh\AndroidStudioProjects\CashBook\app\src\main\AndroidManifest.xml:31:13-36
+40        <activity
+40-->C:\Users\mkhhh\AndroidStudioProjects\CashBook\app\src\main\AndroidManifest.xml:32:9-40:20
+41            android:name="com.example.cashbook.MainActivity"
+41-->C:\Users\mkhhh\AndroidStudioProjects\CashBook\app\src\main\AndroidManifest.xml:33:13-41
+42            android:exported="true" >
+42-->C:\Users\mkhhh\AndroidStudioProjects\CashBook\app\src\main\AndroidManifest.xml:34:13-36
+43            <intent-filter>
+43-->C:\Users\mkhhh\AndroidStudioProjects\CashBook\app\src\main\AndroidManifest.xml:35:13-39:29
+44                <action android:name="android.intent.action.MAIN" />
+44-->C:\Users\mkhhh\AndroidStudioProjects\CashBook\app\src\main\AndroidManifest.xml:36:17-69
+44-->C:\Users\mkhhh\AndroidStudioProjects\CashBook\app\src\main\AndroidManifest.xml:36:25-66
+45
+46                <category android:name="android.intent.category.LAUNCHER" />
+46-->C:\Users\mkhhh\AndroidStudioProjects\CashBook\app\src\main\AndroidManifest.xml:38:17-77
+46-->C:\Users\mkhhh\AndroidStudioProjects\CashBook\app\src\main\AndroidManifest.xml:38:27-74
+47            </intent-filter>
+48        </activity>
+49
+50        <uses-library
+50-->[androidx.window:window:1.0.0] C:\Users\mkhhh\.gradle\wrapper\dists\gradle-7.5-bin\f1w0cc9nuo0eivz97x2xlu9sv\gradle-7.5\caches\transforms-3\c0fc6a9d6d48b26e71850408022bc153\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+51            android:name="androidx.window.extensions"
+51-->[androidx.window:window:1.0.0] C:\Users\mkhhh\.gradle\wrapper\dists\gradle-7.5-bin\f1w0cc9nuo0eivz97x2xlu9sv\gradle-7.5\caches\transforms-3\c0fc6a9d6d48b26e71850408022bc153\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+52            android:required="false" />
+52-->[androidx.window:window:1.0.0] C:\Users\mkhhh\.gradle\wrapper\dists\gradle-7.5-bin\f1w0cc9nuo0eivz97x2xlu9sv\gradle-7.5\caches\transforms-3\c0fc6a9d6d48b26e71850408022bc153\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+53        <uses-library
+53-->[androidx.window:window:1.0.0] C:\Users\mkhhh\.gradle\wrapper\dists\gradle-7.5-bin\f1w0cc9nuo0eivz97x2xlu9sv\gradle-7.5\caches\transforms-3\c0fc6a9d6d48b26e71850408022bc153\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+54            android:name="androidx.window.sidecar"
+54-->[androidx.window:window:1.0.0] C:\Users\mkhhh\.gradle\wrapper\dists\gradle-7.5-bin\f1w0cc9nuo0eivz97x2xlu9sv\gradle-7.5\caches\transforms-3\c0fc6a9d6d48b26e71850408022bc153\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+55            android:required="false" />
+55-->[androidx.window:window:1.0.0] C:\Users\mkhhh\.gradle\wrapper\dists\gradle-7.5-bin\f1w0cc9nuo0eivz97x2xlu9sv\gradle-7.5\caches\transforms-3\c0fc6a9d6d48b26e71850408022bc153\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+56
+57        <service
+57-->[androidx.room:room-runtime:2.4.2] C:\Users\mkhhh\.gradle\wrapper\dists\gradle-7.5-bin\f1w0cc9nuo0eivz97x2xlu9sv\gradle-7.5\caches\transforms-3\7838d6a67f9314ee702170f5a43a252e\transformed\room-runtime-2.4.2\AndroidManifest.xml:25:9-28:40
+58            android:name="androidx.room.MultiInstanceInvalidationService"
+58-->[androidx.room:room-runtime:2.4.2] C:\Users\mkhhh\.gradle\wrapper\dists\gradle-7.5-bin\f1w0cc9nuo0eivz97x2xlu9sv\gradle-7.5\caches\transforms-3\7838d6a67f9314ee702170f5a43a252e\transformed\room-runtime-2.4.2\AndroidManifest.xml:26:13-74
+59            android:directBootAware="true"
+59-->[androidx.room:room-runtime:2.4.2] C:\Users\mkhhh\.gradle\wrapper\dists\gradle-7.5-bin\f1w0cc9nuo0eivz97x2xlu9sv\gradle-7.5\caches\transforms-3\7838d6a67f9314ee702170f5a43a252e\transformed\room-runtime-2.4.2\AndroidManifest.xml:27:13-43
+60            android:exported="false" />
+60-->[androidx.room:room-runtime:2.4.2] C:\Users\mkhhh\.gradle\wrapper\dists\gradle-7.5-bin\f1w0cc9nuo0eivz97x2xlu9sv\gradle-7.5\caches\transforms-3\7838d6a67f9314ee702170f5a43a252e\transformed\room-runtime-2.4.2\AndroidManifest.xml:28:13-37
+61
+62        <provider
+62-->[androidx.emoji2:emoji2:1.0.0] C:\Users\mkhhh\.gradle\wrapper\dists\gradle-7.5-bin\f1w0cc9nuo0eivz97x2xlu9sv\gradle-7.5\caches\transforms-3\7c3429afed39f0c5b96aa0ba99938e1c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+63            android:name="androidx.startup.InitializationProvider"
+63-->[androidx.emoji2:emoji2:1.0.0] C:\Users\mkhhh\.gradle\wrapper\dists\gradle-7.5-bin\f1w0cc9nuo0eivz97x2xlu9sv\gradle-7.5\caches\transforms-3\7c3429afed39f0c5b96aa0ba99938e1c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+64            android:authorities="com.example.cashbook.androidx-startup"
+64-->[androidx.emoji2:emoji2:1.0.0] C:\Users\mkhhh\.gradle\wrapper\dists\gradle-7.5-bin\f1w0cc9nuo0eivz97x2xlu9sv\gradle-7.5\caches\transforms-3\7c3429afed39f0c5b96aa0ba99938e1c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+65            android:exported="false" >
+65-->[androidx.emoji2:emoji2:1.0.0] C:\Users\mkhhh\.gradle\wrapper\dists\gradle-7.5-bin\f1w0cc9nuo0eivz97x2xlu9sv\gradle-7.5\caches\transforms-3\7c3429afed39f0c5b96aa0ba99938e1c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+66            <meta-data
+66-->[androidx.emoji2:emoji2:1.0.0] C:\Users\mkhhh\.gradle\wrapper\dists\gradle-7.5-bin\f1w0cc9nuo0eivz97x2xlu9sv\gradle-7.5\caches\transforms-3\7c3429afed39f0c5b96aa0ba99938e1c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+67                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+67-->[androidx.emoji2:emoji2:1.0.0] C:\Users\mkhhh\.gradle\wrapper\dists\gradle-7.5-bin\f1w0cc9nuo0eivz97x2xlu9sv\gradle-7.5\caches\transforms-3\7c3429afed39f0c5b96aa0ba99938e1c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+68                android:value="androidx.startup" />
+68-->[androidx.emoji2:emoji2:1.0.0] C:\Users\mkhhh\.gradle\wrapper\dists\gradle-7.5-bin\f1w0cc9nuo0eivz97x2xlu9sv\gradle-7.5\caches\transforms-3\7c3429afed39f0c5b96aa0ba99938e1c\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+69            <meta-data
+69-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\mkhhh\.gradle\wrapper\dists\gradle-7.5-bin\f1w0cc9nuo0eivz97x2xlu9sv\gradle-7.5\caches\transforms-3\953ae514e0c3e96da85a77e06cb51199\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+70                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+70-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\mkhhh\.gradle\wrapper\dists\gradle-7.5-bin\f1w0cc9nuo0eivz97x2xlu9sv\gradle-7.5\caches\transforms-3\953ae514e0c3e96da85a77e06cb51199\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+71                android:value="androidx.startup" />
+71-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\mkhhh\.gradle\wrapper\dists\gradle-7.5-bin\f1w0cc9nuo0eivz97x2xlu9sv\gradle-7.5\caches\transforms-3\953ae514e0c3e96da85a77e06cb51199\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+72        </provider>
+73    </application>
+74
+75</manifest>

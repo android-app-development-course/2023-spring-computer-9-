@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.cashbook.app-mergeDebugResources-45:/values-v25/values-v25.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\caches\\transforms-3\\9b5b67517653afffb3e62c9a4dd4df31\\transformed\\appcompat-1.4.1\\res\\values-v25\\values-v25.xml",
+                    "from": {
+                        "startLines": "2,3,4,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,126,209,308",
+                        "endLines": "2,3,5,7",
+                        "endColumns": "70,82,12,12",
+                        "endOffsets": "121,204,303,414"
+                    }
+                }
+            ]
+        }
+    ]
+}

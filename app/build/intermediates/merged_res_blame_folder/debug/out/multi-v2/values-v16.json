@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.cashbook.app-mergeDebugResources-45:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\caches\\transforms-3\\9b5b67517653afffb3e62c9a4dd4df31\\transformed\\appcompat-1.4.1\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\caches\\transforms-3\\fb7b7b9be34ae56d3d2fed5eaf37cee0\\transformed\\core-1.7.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}

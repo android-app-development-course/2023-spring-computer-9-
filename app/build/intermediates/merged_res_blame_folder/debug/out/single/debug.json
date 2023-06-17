@@ -1,0 +1,502 @@
+[
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xhdpi_gw.png.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xhdpi\\gw.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\layout_statistics.xml.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\layout\\statistics.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xhdpi_gift.png.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xhdpi\\gift.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xhdpi_bonus.png.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xhdpi\\bonus.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xhdpi_wd_click.png.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xhdpi\\wd_click.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xhdpi_hf.png.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xhdpi\\hf.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\drawable_detailed_accounts.xml.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\drawable\\detailed_accounts.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xhdpi_mx.png.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xhdpi\\mx.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xhdpi_right.png.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xhdpi\\right.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\drawable_ic_expenditure_food.xml.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\drawable\\ic_expenditure_food.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xhdpi_register.png.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xhdpi\\register.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xhdpi_shopping.png.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xhdpi\\shopping.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\layout_mylogin.xml.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\layout\\mylogin.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\layout_aboutus.xml.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\layout\\aboutus.xml"
+    },
+    {
+        "merged": "com.example.cashbook.app-merged_res-47:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.cashbook.app-main-49:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\layout_statistics_day.xml.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\layout\\statistics_day.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xhdpi_salary.png.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xhdpi\\salary.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\drawable_ic_income_transfer_accounts.xml.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\drawable\\ic_income_transfer_accounts.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xhdpi_expenditure.png.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xhdpi\\expenditure.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xhdpi_aboutus.jpg.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xhdpi\\aboutus.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xhdpi_doctor.png.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xhdpi\\doctor.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xhdpi_detailed_accounts.png.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xhdpi\\detailed_accounts.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\drawable_ic_income_investment.xml.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\drawable\\ic_income_investment.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xhdpi_username.png.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xhdpi\\username.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\layout_card_item.xml.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\layout\\card_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xhdpi_qt_click.png.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xhdpi\\qt_click.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xhdpi_fb.png.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xhdpi\\fb.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\menu_top_menu.xml.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\menu\\top_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\layout_settings.xml.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\layout\\settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xhdpi_mx_click.png.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xhdpi\\mx_click.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xhdpi_search.png.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xhdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xhdpi_back_black.png.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xhdpi\\back_black.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xhdpi_tour.png.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xhdpi\\tour.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\layout_detail.xml.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\layout\\detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\drawable_ic_expenditure_daily.xml.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\drawable\\ic_expenditure_daily.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\drawable_ic_expenditure_shopping.xml.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\drawable\\ic_expenditure_shopping.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\drawable_ic_expenditure_travel.xml.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\drawable\\ic_expenditure_travel.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xhdpi_transfer.png.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xhdpi\\transfer.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xhdpi_tb.png.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xhdpi\\tb.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xhdpi_daily.png.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xhdpi\\daily.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xhdpi_users.png.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xhdpi\\users.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\layout_income.xml.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\layout\\income.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xhdpi_houserent.png.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xhdpi\\houserent.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\layout_statistics_year.xml.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\layout\\statistics_year.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\drawable_ic_expenditure_doctor.xml.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\drawable\\ic_expenditure_doctor.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xhdpi_hb_click.png.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xhdpi\\hb_click.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\layout_statistics_month.xml.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\layout\\statistics_month.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\drawable_shape_card.xml.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\drawable\\shape_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\drawable_ic_expenditure_gift.xml.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\drawable\\ic_expenditure_gift.xml"
+    },
+    {
+        "merged": "com.example.cashbook.app-merged_res-47:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.cashbook.app-main-49:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xhdpi_food.png.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xhdpi\\food.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xhdpi_settings.png.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xhdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\menu_bottom_menu.xml.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\menu\\bottom_menu.xml"
+    },
+    {
+        "merged": "com.example.cashbook.app-merged_res-47:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.cashbook.app-main-49:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\drawable_ic_expenditure.xml.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\drawable\\ic_expenditure.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\drawable_statistics.xml.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\drawable\\statistics.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xhdpi_wd.png.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xhdpi\\wd.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xhdpi_b.png.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xhdpi\\b.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xhdpi_jt.png.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xhdpi\\jt.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\layout_alterdialog_yes_no.xml.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\layout\\alterdialog_yes_no.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xhdpi_tb_click.png.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xhdpi\\tb_click.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xhdpi_a.png.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xhdpi\\a.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xhdpi_login.png.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xhdpi\\login.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\navigation_bottom_navigation.xml.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\navigation\\bottom_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\drawable_dialog.xml.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\drawable\\dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xhdpi_gz_click.png.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xhdpi\\gz_click.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xhdpi_hf_click.png.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xhdpi\\hf_click.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xhdpi_hb.png.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xhdpi\\hb.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xhdpi_cf_click.png.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xhdpi\\cf_click.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\drawable_ic_all.xml.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\drawable\\ic_all.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xhdpi_statistics.png.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xhdpi\\statistics.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xhdpi_gw_click.png.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xhdpi\\gw_click.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xhdpi_favour.png.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xhdpi\\favour.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xhdpi_gz.png.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xhdpi\\gz.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xhdpi_all.png.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xhdpi\\all.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xhdpi_fruit.png.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xhdpi\\fruit.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\layout_add_expenditure.xml.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\layout\\add_expenditure.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xhdpi_password2.png.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xhdpi\\password2.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xhdpi_income.png.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xhdpi\\income.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\layout_detailed_accounts.xml.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\layout\\detailed_accounts.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\layout_add_income.xml.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\layout\\add_income.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\layout_users.xml.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\layout\\users.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xhdpi_jt_click.png.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xhdpi\\jt_click.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\drawable_ic_delete.png.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\drawable\\ic_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\layout_all.xml.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\layout\\all.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xhdpi_about_us.png.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xhdpi\\about_us.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xhdpi_qt.png.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xhdpi\\qt.png"
+    },
+    {
+        "merged": "com.example.cashbook.app-merged_res-47:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.cashbook.app-main-49:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xhdpi_other.png.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xhdpi\\other.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\layout_change_password.xml.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\layout\\change_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\drawable_ic_income.xml.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\drawable\\ic_income.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xhdpi_password.png.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xhdpi\\password.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xhdpi_cf.png.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xhdpi\\cf.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\drawable_ic_expenditure_other.xml.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\drawable\\ic_expenditure_other.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\layout_account_item.xml.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\layout\\account_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\menu_long_click_menu.xml.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\menu\\long_click_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.cashbook.app-merged_res-47:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.cashbook.app-main-49:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\layout_myregister.xml.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\layout\\myregister.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xhdpi_investment.png.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xhdpi\\investment.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xhdpi_mrtx.png.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xhdpi\\mrtx.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\drawable_users.xml.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\drawable\\users.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\drawable_ic_expenditure_fruit.xml.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\drawable\\ic_expenditure_fruit.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\drawable_ic_income_bonus.xml.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\drawable\\ic_income_bonus.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\layout_expenditure.xml.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\layout\\expenditure.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\drawable_ic_income_salary.xml.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\drawable\\ic_income_salary.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xhdpi_add.png.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xhdpi\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-merged_res-47:\\layout_add_accounts.xml.flat",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\layout\\add_accounts.xml"
+    }
+]

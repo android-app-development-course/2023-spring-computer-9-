@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-mergeDebugResources-46:\\layout\\statistics_year.xml",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\layout\\statistics_year.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-mergeDebugResources-46:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-mergeDebugResources-46:\\layout\\change_password.xml",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\layout\\change_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-mergeDebugResources-46:\\layout\\settings.xml",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\layout\\settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-mergeDebugResources-46:\\layout\\statistics.xml",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\layout\\statistics.xml"
+    },
+    {
+        "merged": "com.example.cashbook.app-mergeDebugResources-46:/layout/statistics.xml",
+        "source": "com.example.cashbook.app-main-49:/layout/statistics.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-mergeDebugResources-46:\\layout\\detail.xml",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\layout\\detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-mergeDebugResources-46:\\layout\\add_income.xml",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\layout\\add_income.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-mergeDebugResources-46:\\layout\\card_item.xml",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\layout\\card_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-mergeDebugResources-46:\\layout\\add_expenditure.xml",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\layout\\add_expenditure.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-mergeDebugResources-46:\\layout\\account_item.xml",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\layout\\account_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-mergeDebugResources-46:\\layout\\mylogin.xml",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\layout\\mylogin.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-mergeDebugResources-46:\\layout\\myregister.xml",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\layout\\myregister.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-mergeDebugResources-46:\\layout\\add_accounts.xml",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\layout\\add_accounts.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-mergeDebugResources-46:\\layout\\income.xml",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\layout\\income.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-mergeDebugResources-46:\\layout\\all.xml",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\layout\\all.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-mergeDebugResources-46:\\layout\\expenditure.xml",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\layout\\expenditure.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-mergeDebugResources-46:\\layout\\statistics_month.xml",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\layout\\statistics_month.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-mergeDebugResources-46:\\layout\\alterdialog_yes_no.xml",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\layout\\alterdialog_yes_no.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-mergeDebugResources-46:\\layout\\statistics_day.xml",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\layout\\statistics_day.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-mergeDebugResources-46:\\layout\\detailed_accounts.xml",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\layout\\detailed_accounts.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-mergeDebugResources-46:\\layout\\aboutus.xml",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\layout\\aboutus.xml"
+    },
+    {
+        "merged": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-mergeDebugResources-46:\\layout\\users.xml",
+        "source": "C:\\Users\\mkhhh\\.gradle\\wrapper\\dists\\gradle-7.5-bin\\f1w0cc9nuo0eivz97x2xlu9sv\\gradle-7.5\\daemon\\7.5\\com.example.cashbook.app-main-49:\\layout\\users.xml"
+    }
+]
