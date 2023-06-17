@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/bottom_navigation"
+    app:startDestination="@+id/navigation_detailed_accounts">
+
+    <fragment
+        android:id="@+id/navigation_detailed_accounts"
+        android:name="com.example.cashbook.ui.detailed_accounts.detailed_accounts_fragment"
+        android:label="CashBook"
+        tools:layout="@layout/detailed_accounts" />
+
+    <fragment
+        android:id="@+id/navigation_statistics"
+        android:name="com.example.cashbook.ui.statistics.statistics_fragment"
+        android:label="CashBook"
+        tools:layout="@layout/statistics" />
+
+    <fragment
+        android:id="@+id/navigation_users"
+        android:name="com.example.cashbook.ui.users.users_fragment"
+        android:label="CashBook"
+        tools:layout="@layout/users" />
+</navigation>

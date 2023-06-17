@@ -1,0 +1,14 @@
+package com.example.cashbook
+
+import android.annotation.SuppressLint
+
+class Card(private var name: String?, private var imageId: Int) {
+
+    fun getName(): String? {
+        return name
+    }
+
+    fun getImageId(): Int {
+        return imageId
+    }
+}
